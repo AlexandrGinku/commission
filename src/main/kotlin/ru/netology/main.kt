@@ -61,6 +61,6 @@ fun vkPay(
     return when {
         transferAmount > vkPayTimeLimitMonth -> "Превышен лит перевода месяц"
         amount > vkPayOneTimeLimit -> "Превышен лит перевода за один раз"
-        else -> "Комиссия 10"
+        else -> "Комиссия 0"
     }
 }

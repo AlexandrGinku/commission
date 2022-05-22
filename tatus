@@ -1,0 +1,29 @@
+[33mcommit f806049e66d25df209b58d453d0f8e1dc6d8d0d0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: AsGinku_1976 <aginku@yandex.ru>
+Date:   Sun May 22 19:15:44 2022 +0300
+
+    Correction file MainKtTest
+
+[33mcommit c9ad5609d2b4e96c30cc24ba82064bd51f21d3f4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: AsGinku_1976 <aginku@yandex.ru>
+Date:   Sun May 22 19:10:25 2022 +0300
+
+    Check GitHub Actions
+
+[33mcommit 96f3c4371ff06e1076dd6f8af086fec7587154c4[m
+Author: AlexandrGinku <103674377+AlexandrGinku@users.noreply.github.com>
+Date:   Sun May 22 18:51:29 2022 +0300
+
+    Create gradle.yml
+
+[33mcommit 41d02bcb22ae579ecc05e91cc1672ad514da4927[m
+Author: AsGinku_1976 <aginku@yandex.ru>
+Date:   Sun May 22 16:40:44 2022 +0300
+
+    add test
+
+[33mcommit 8d9d619370596de6583150111be6c23d9666862a[m
+Author: AsGinku_1976 <aginku@yandex.ru>
+Date:   Thu May 19 20:05:54 2022 +0300
+
+    Initial commit

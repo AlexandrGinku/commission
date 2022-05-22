@@ -59,8 +59,8 @@ fun vkPay(
     vkPayOneTimeLimit: Int = 15_000
 ): String {
     return when {
-        transferAmount > vkPayTimeLimitMonth -> "Превышен лит перевода месяц"
-        amount > vkPayOneTimeLimit -> "Превышен лит перевода за один раз"
+        transferAmount > vkPayTimeLimitMonth -> "Превышен лимит перевода в месяц"
+        amount > vkPayOneTimeLimit -> "Превышен лимит перевода за один раз"
         else -> "Комиссия 0"
     }
 }

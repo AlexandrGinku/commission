@@ -183,7 +183,7 @@ class MainKtTest {
         val amount = 15001
         val vkPayTimeLimitMonth = 40_000
         val vkPayOneTimeLimit = 15_000
-        val expectedCommission = "Превышен лит перевода за один раз"
+        val expectedCommission = "Превышен лимит перевода за один раз"
         // act
         val actualCommission = vkPay(transferAmount, amount, vkPayTimeLimitMonth, vkPayOneTimeLimit)
         // assert
@@ -197,7 +197,7 @@ class MainKtTest {
         val amount = 1000
         val vkPayTimeLimitMonth = 40_000
         val vkPayOneTimeLimit = 15_000
-        val expectedCommission = "Превышен лит перевода месяц"
+        val expectedCommission = "Превышен лимит перевода в месяц"
         // act
         val actualCommission = vkPay(transferAmount, amount, vkPayTimeLimitMonth, vkPayOneTimeLimit)
         // assert
